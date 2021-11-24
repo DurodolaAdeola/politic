@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(116, 86, 199);
+
+}
+h1{
+    text-align: center;
+    color: rgb(235, 219, 217);
+    font-style: italic;
+    font-family: fantasy;
+}
+p{
+    color: rgb(43, 85, 48);
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
+.container-fluid{
+    background-color: rgb(2, 21, 54);
+    color: cornsilk;
+}
+
+footer{
+    text-align: center;    
+}
+#youngFem, #maturedFem, #youngMale, #maturedMale {
+    display: none;
+}
+
